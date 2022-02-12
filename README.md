@@ -1,2 +1,2 @@
 # dojopython
-Códigos criados com a turma AWARI
+Códigos criados no curso de DataScience da AWARI
